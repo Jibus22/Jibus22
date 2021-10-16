@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=353E96&size=21&width=960&lines=Hello!+I'm+Jean-Baptiste.;Previously+sound+technician,+now+a+42+student...;Nice+to+meet+you+!">
+ <img src="https://readme-typing-svg.herokuapp.com?color=353E96&size=23&width=960&lines=Hello!+I'm+Jean-Baptiste.;Previously+sound+technician,+now+a+42+student...;Contact+me+at+jle-corr@student.42.fr">
 </p>
 
 ---
