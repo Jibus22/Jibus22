@@ -5,7 +5,7 @@
 ---
 [![jle-corr's 42 stats](https://badge42.vercel.app/api/v2/cl1nk6qqs009409lbncl4hy1s/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&langs_count=8&hide_border=true&layout=compact&hide=javascript,php,css,html,twig,scss&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jibus22&langs_count=8&hide_border=true&layout=compact&hide=php,css,html,twig,scss&theme=shades-of-purple)
 
 ---
 
