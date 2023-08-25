@@ -84,6 +84,10 @@ hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
  </a>
 </p>
 
+<br/>
+<br/>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 ---
 
 <p align="center">
