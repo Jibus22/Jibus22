@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:bc42ff&height=200&section=header&text=Hello%20world!%20👾&fontSize=60&desc=I'm%20Jean-Baptiste&animation=fadeIn&fontColor=d6ace6&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:bc42ff&height=120&section=header&text=Hello,%20world!%20👾&fontSize=60&desc=rm%20-rf%20/&animation=fadeIn&fontColor=d6ace6&fontAlignY=40" />
 </p>
 
 <div align="center">
@@ -8,9 +8,8 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=1100&color=5501DC&vCenter=true&width=410&lines=Experience+is+what+you+get...;when+you+didn't+get+what+you+wanted." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=1800&color=5501DC&vCenter=true&width=410&lines=Experience+is+what+you+get...;when+you+didn't+get+what+you+wanted." alt="Typing SVG" />
 </p>
-<br/>
 
 <h2 align="center">👨🏻‍💻&nbsp;About</h2>
 
@@ -64,12 +63,10 @@ hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
 
 <br/>
 <br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibus22&layout=pie&theme=blueberry" />
-</p>
-
-<p align=center>
-  <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="450">
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="450">
 </p>
 
 <br/>
@@ -87,11 +84,7 @@ hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
 ---
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3100&pause=1000&color=4130C3&vCenter=true&width=430&lines=He+who+has+imagination+without+learning;.+.+.+ +has+wings+but+no+feet.">
-</p>
-
-<p align="center">
- <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="130"/>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="130"/>
- <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="130"/>
+ <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="110"/>
+ <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="110"/>
 </p>
