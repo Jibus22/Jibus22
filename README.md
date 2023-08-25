@@ -13,8 +13,33 @@
 <br/>
 <br/>
 
-<h2>💾&nbsp;&nbsp;Skillset</h2>
-<p align="left">
+<h2 align="center">👨🏻‍💻&nbsp;About</h2>
+
+```yaml
+name: Jean-Baptiste Le Corre
+located_in: Paris, France
+current_status: Student
+education:
+  [
+    "Digital technologies architect - 42 Paris",
+    "BTEC in audiovisual - audio specialization - Montaigu",
+  ]
+fields_of_interests:
+  [
+    "System",
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "Cybersecurity",
+    "DevOps",
+  ]
+hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
+```
+
+<br/>
+<h2 align="center">💾&nbsp;&nbsp;Skillset</h2>
+<br/>
+<p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
@@ -42,18 +67,16 @@ ain.svg" alt="javascript" width="30" height="30"/>
 <br/>
 <br/>
 <br/>
+<br/>
 <p align="center">
- <a href="https://jibus22.github.io/">
-  <img height="40" src="https://github.com/Jibus22/Jibus22/assets/59167486/e694b50a-adcd-4932-b708-172f9dd5ee2b" alt="web" />
+ <a href="https://jibus22.github.io/" target="blank">
+  <img height="40" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="web" />
  </a>
  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
- <a href="https://www.linkedin.com/in/jle-corr/">
-  <img height="40" src="https://github.com/Jibus22/Jibus22/assets/59167486/492ddfce-c6e5-42f9-a7d3-fc432fd17a39" alt="linkedin" />
+ <a href="https://www.linkedin.com/in/jle-corr/" target="blank">
+  <img height="40" src="https://cdn.simpleicons.org/linkedin/3400c4" alt="linkedin" />
  </a>
 </p>
-<br/>
-<br/>
-<br/>
 
 ---
 
