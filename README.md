@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
- <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="330"/>
- <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="330"/>
+ <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="350"/>
+ <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="350"/>
 </div>
 
 <p align="center">
@@ -72,6 +72,12 @@ hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
 
 <br/>
 <br/>
+<p align=center>
+  <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="500">
+</p>
+
+<br/>
+<br/>
 <br/>
 <br/>
 <p align="center">
@@ -83,10 +89,6 @@ hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
   <img height="40" src="https://cdn.simpleicons.org/linkedin/3400c4" alt="linkedin" />
  </a>
 </p>
-
-<br/>
-<br/>
-<img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
 
 ---
 
