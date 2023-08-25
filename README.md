@@ -11,7 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=1100&color=5501DC&vCenter=true&width=410&lines=Experience+is+what+you+get...;when+you+didn't+get+what+you+wanted." alt="Typing SVG" />
 </p>
 <br/>
-<br/>
 
 <h2 align="center">👨🏻‍💻&nbsp;About</h2>
 
@@ -65,19 +64,14 @@ hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
 
 <br/>
 <br/>
-<br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibus22&layout=pie&theme=blueberry" />
 </p>
 
-<br/>
-<br/>
 <p align=center>
-  <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="500">
+  <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="450">
 </p>
 
-<br/>
-<br/>
 <br/>
 <br/>
 <p align="center">
