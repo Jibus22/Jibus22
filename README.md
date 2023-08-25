@@ -43,8 +43,7 @@ hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-pl![web](https://github.com/Jibus22/Jibus22/assets/59167486/2d0ddaec-036f-4210-9542-2facee6c0c09)
-ain.svg" alt="javascript" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="30" height="30"/>
@@ -62,6 +61,13 @@ ain.svg" alt="javascript" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="panda" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="30" height="30"/>
+</p>
+
+<br/>
+<br/>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibus22&layout=pie&theme=blueberry" />
 </p>
 
 <br/>
