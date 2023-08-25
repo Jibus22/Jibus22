@@ -1,13 +1,68 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=353E96&size=23&width=960&lines=Hello!+I'm+Jean-Baptiste.;Previously+sound+technician,+now+a+42+student...;Contact+me+at+jle-corr@student.42.fr">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:bc42ff&height=200&section=header&text=Hello%20world!%20👾&fontSize=60&desc=I'm%20Jean-Baptiste&animation=fadeIn&fontColor=d6ace6&fontAlignY=40" />
 </p>
 
+<div align="center">
+ <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="330"/>
+ <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="330"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=1100&color=5501DC&vCenter=true&width=410&lines=Experience+is+what+you+get...;when+you+didn't+get+what+you+wanted." alt="Typing SVG" />
+</p>
+<br/>
+<br/>
+
+<h2>💾&nbsp;&nbsp;Skillset</h2>
+<p align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-pl![web](https://github.com/Jibus22/Jibus22/assets/59167486/2d0ddaec-036f-4210-9542-2facee6c0c09)
+ain.svg" alt="javascript" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="vim" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="panda" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="30" height="30"/>
+</p>
+
+<br/>
+<br/>
+<br/>
+<p align="center">
+ <a href="https://jibus22.github.io/">
+  <img height="40" src="https://github.com/Jibus22/Jibus22/assets/59167486/e694b50a-adcd-4932-b708-172f9dd5ee2b" alt="web" />
+ </a>
+ <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+ <a href="https://www.linkedin.com/in/jle-corr/">
+  <img height="40" src="https://github.com/Jibus22/Jibus22/assets/59167486/492ddfce-c6e5-42f9-a7d3-fc432fd17a39" alt="linkedin" />
+ </a>
+</p>
+<br/>
+<br/>
+<br/>
+
 ---
-[![jle-corr's 42 stats](https://badge42.vercel.app/api/v2/cl1nk6qqs009409lbncl4hy1s/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jibus22&hide_border=true&layout=compact&hide=php,css,html,twig,scss,roff,makefile&theme=shades-of-purple)
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3100&pause=1000&color=4130C3&vCenter=true&width=430&lines=He+who+has+imagination+without+learning;.+.+.+ +has+wings+but+no+feet.">
+</p>
 
----
-
-### Skills
-<img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/vim%20-21E095.svg?&style=for-the-badge&logo=vim&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/git%20-F050532.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/docker%20-A8B099.svg?&style=for-the-badge&logo=docker&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/k8s%20-A8B9AA.svg?&style=for-the-badge&logo=kubernetes&logoColor=FFFFFF"/>
+<p align="center">
+ <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="130"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="130"/>
+ <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="130"/>
+</p>
