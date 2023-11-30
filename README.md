@@ -14,14 +14,14 @@
 <h2 align="center">👨🏻‍💻&nbsp;About</h2>
 
 ```yaml
-name: Jean-Baptiste Le Corre
-located_in: Paris, France
-current_status: Student
+name: "Jean-Baptiste Le Corre",
+located_in: "Paris, France",
+current_status: "Student",
 education:
   [
     "Digital technologies architect - 42 Paris",
     "BTEC in audiovisual - audio specialization - Montaigu",
-  ]
+  ],
 fields_of_interests:
   [
     "System",
@@ -30,7 +30,7 @@ fields_of_interests:
     "Machine Learning",
     "Cybersecurity",
     "DevOps",
-  ]
+  ],
 hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
 ```
 
