@@ -7,7 +7,7 @@
 <p align="center">
 I participate in the construction of the matrix, in a functional style.
 
-I traveled it as a sound operator in professional television broadcasting before applying my team spirit and my rigor to my reconversion in IT.
+I traveled the simulation as a sound operator in professional television broadcasting before applying my team spirit and my rigor to my reconversion in IT.
 I took advantage of the general curriculum at the Parisian school of 42 to explore various fields of IT.
 
 I'm currently learning more about blockchain, after falling in love with ocaml. The next projects will undoubtedly be mobile in Kotlin and a microservices web application with kafka or redis stream.
