@@ -1,49 +1,32 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:bc42ff&height=120&section=header&text=Hello,%20world!%20👾&fontSize=60&desc=rm%20-rf%20/&animation=fadeIn&fontColor=d6ace6&fontAlignY=40" />
-</p>
-
-<div align="center">
- <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="350"/>
- <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="350"/>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=1800&color=5501DC&vCenter=true&width=410&lines=Experience+is+what+you+get...;when+you+didn't+get+what+you+wanted." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:bc42ff&height=120&section=header&text=Hello,%20world!%20👾&fontSize=60&animation=fadeIn&fontColor=d6ace6&fontAlignY=40" />
 </p>
 
 <h2 align="center">👨🏻‍💻&nbsp;About</h2>
 
-```yaml
-name: "Jean-Baptiste Le Corre",
-located_in: "Paris, France",
-current_status: "Student",
-education:
-  [
-    "Digital technologies architect - 42 Paris",
-    "BTEC in audiovisual - audio specialization - Montaigu",
-  ],
-fields_of_interests:
-  [
-    "System",
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "Cybersecurity",
-    "DevOps",
-  ],
-hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
-```
+<p align="center">
+I participate in the construction of the matrix, in a functional style.
+
+I traveled it as a sound operator in professional television broadcasting before applying my team spirit and my rigor to my reconversion in IT.
+I took advantage of the general curriculum at the Parisian school of 42 to explore various fields of IT.
+
+I'm currently learning more about blockchain, after falling in love with ocaml. The next projects will undoubtedly be mobile in Kotlin and a microservices web application with kafka or redis stream.
+More details about me [here](https://jibus22.github.io/about).
+</p>
 
 <br/>
 <h2 align="center">💾&nbsp;&nbsp;Skillset</h2>
 <br/>
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" alt="Ocaml" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="reactjs" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
@@ -70,6 +53,15 @@ hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
 </p>
 
 <br/>
+
+<p align="center">
+ <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="110"/>
+ <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="110"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=1800&color=5501DC&vCenter=true&width=410&lines=Experience+is+what+you+get...;when+you+didn't+get+what+you+wanted." alt="Typing SVG" />
+</p>
 <br/>
 <p align="center">
  <a href="https://jibus22.github.io/" target="blank">
@@ -79,12 +71,4 @@ hobbies: ["Basket-ball", "Climbing", "BMX", "Guitar"]
  <a href="https://www.linkedin.com/in/jle-corr/" target="blank">
   <img height="40" src="https://cdn.simpleicons.org/linkedin/3400c4" alt="linkedin" />
  </a>
-</p>
-
----
-
-<p align="center">
- <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="110"/>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="110"/>
- <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="110"/>
 </p>
