@@ -18,7 +18,16 @@ More details about me [here](https://jibus22.github.io/about).
 <h2 align="center">💾&nbsp;&nbsp;Skillset</h2>
 <br/>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" alt="Ocaml" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" alt="Ocaml" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
@@ -27,14 +36,6 @@ More details about me [here](https://jibus22.github.io/about).
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="reactjs" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux" width="30" height="30"/>
@@ -48,8 +49,12 @@ More details about me [here](https://jibus22.github.io/about).
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibus22&layout=pie&theme=blueberry" />
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="450">
+  <a href="https://github.com/Jibus22/Forth" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jibus22&repo=Forth&theme=blueberry" /></a>
+  <a href="https://gist.github.com/Jibus22/990c47910f5c286da4aa784a5a2986d0" target="_blank"><img src="https://github-readme-stats.vercel.app/api/gist?id=990c47910f5c286da4aa784a5a2986d0&theme=blueberry" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jibus22?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibus22&layout=compact&theme=blueberry" /></a>
 </p>
 
 <br/>
@@ -62,13 +67,14 @@ More details about me [here](https://jibus22.github.io/about).
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=1800&color=5501DC&vCenter=true&width=410&lines=Experience+is+what+you+get...;when+you+didn't+get+what+you+wanted." alt="Typing SVG" />
 </p>
+
 <br/>
 <p align="center">
- <a href="https://jibus22.github.io/" target="blank">
+ <a href="https://jibus22.github.io/" target="_blank">
   <img height="40" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="web" />
  </a>
  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
- <a href="https://www.linkedin.com/in/jle-corr/" target="blank">
+ <a href="https://www.linkedin.com/in/jle-corr/" target="_blank">
   <img height="40" src="https://cdn.simpleicons.org/linkedin/3400c4" alt="linkedin" />
  </a>
 </p>
