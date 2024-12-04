@@ -7,7 +7,7 @@
 <p align="center">
 I participate in the construction of the matrix, in a functional style.
 
-I traveled the simulation as a sound operator in professional television broadcasting before applying my team spirit and my rigor to my reconversion in IT.
+I traveled the simulation as a sound operator in professional television broadcasting before applying my team spirit and my rigor to my reconversion in software engineering.
 I took advantage of the general curriculum at the Parisian school of 42 to explore various fields of computer science. More details about me [here](https://jibus22.github.io/about).
 </p>
 
