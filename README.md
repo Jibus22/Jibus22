@@ -46,6 +46,8 @@ I took advantage of the general curriculum at the Parisian school of 42 to explo
 <br/>
 
 <p align="center">
+  <a href="https://github.com/Jibus22/ft_turing" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jibus22&repo=ft_turing&theme=blueberry" /></a>
+  <a href="https://github.com/Jibus22/ft_ality" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jibus22&repo=ft_ality&theme=blueberry" /></a>
   <a href="https://github.com/Jibus22/Forth" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jibus22&repo=Forth&theme=blueberry" /></a>
   <a href="https://gist.github.com/Jibus22/990c47910f5c286da4aa784a5a2986d0" target="_blank"><img src="https://github-readme-stats.vercel.app/api/gist?id=990c47910f5c286da4aa784a5a2986d0&theme=blueberry" /></a>
 </p>
